@@ -1,1 +1,11 @@
 Hello World
+This file is modified after this repo was created in ubuntu
+Cloned into my WS
+Now I'm modifying this file
+AFter that i will add it
+Commit it 
+Push it 
+Into git-practice repo
+Chaneds wil be reflected 
+Immediately in git-hub 
+My local Ubuntu repo too
